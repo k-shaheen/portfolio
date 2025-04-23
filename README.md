@@ -10,12 +10,12 @@ https://www.linkedin.com/in/shaheen21/
 Dedicated and results-driven Cybersecurity Analyst with expertise in Security Operations, Penetration Testing, Vulnerability Assessment, and Threat Intelligence. Strong foundation in network security, incident response, and SIEM tools. Conducted real-world vulnerability assessments for organizations, and participated in bug bounty programs. Adept at identifying security gaps, strengthening defenses, and assisting organizations in mitigating threats. Passionate about cyber defense, monitoring, and securing critical infrastructure.
 
 ## PROFESSIONAL CERTIFICATIONS
-• Certified SOC Analyst (CSA) - 2025
-• Offensive Pentesting - 2024
-• Junior Penetration Tester - 2024
-• Computer Hacking Forensic Investigator (CHFI) - 2023
-• Certified Ethical Hacker (CEH) - 2023
-• CompTIA Security+ - 2023
+- Certified SOC Analyst (CSA) - 2025
+- Offensive Pentesting - 2024
+- Junior Penetration Tester - 2024
+- Computer Hacking Forensic Investigator (CHFI) - 2023
+- Certified Ethical Hacker (CEH) - 2023
+- CompTIA Security+ - 2023
 
 ## Work Experience
 ### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Feb’2024 – Present)
