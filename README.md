@@ -67,13 +67,6 @@ Built a custom SOC (Security Operations Center) lab environment using both Windo
 Participated in multiple bug bounty programs, focusing on reconnaissance and application-layer attacks. Found real bugs such as exposed API keys, insecure CORS policies, and broken authentication flows. Reported vulnerabilities with clear reproduction steps and remediation suggestions.
 - **Outcome:** Acknowledged by multiple programs and improved practical skills in offensive security and responsible disclosure.
 
-### **Project 4:** Threat Intelligence and IOC Analysis
-- **Type: Threat Research
-- **Tools Used:** VirusTotal, AlienVault OTX, AbuseIPDB, GreyNoise, Shodan
-- **Description:**
-Gathered, analyzed, and enriched threat intelligence indicators to identify malicious IPs and domains. Used open-source threat feeds and sandbox analysis to profile malware behavior. Integrated threat data into SIEM platforms for proactive detection.
-- **Outcome:** Built a basic threat intelligence pipeline and improved understanding of attacker TTPs using MITRE ATT&CK.
-
 ## Education
 - **Degree:** Bachelor of Engineering
 - **Major:** Electrical and Electronics Engineering
