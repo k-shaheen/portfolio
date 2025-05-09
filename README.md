@@ -36,7 +36,7 @@ Dedicated and results-driven Cybersecurity Analyst with expertise in Security Op
 - **AutoCAD Drafting:** Designed detailed fiber layouts, duct routes, splice diagrams, and termination points using AutoCAD.
 - **Project Documentation:** Managed project schedules, budgets, and reports to ensure smooth communication with clients and stakeholders.
 
-### STRUCTURAL DESIGN E N GINEER (ELECTRICAL) –ACE ENVIRO TECH PVT LTD. - INDIA (Aug’2019 –
+### STRUCTURAL DESIGN ENGINEER (ELECTRICAL) –ACE ENVIRO TECH PVT LTD. - INDIA (Aug’2019 –
 Aug’2021)
 - **Electrical CAD Design:** Created structural electrical layouts and routing based on client specifications using AutoCAD.
 - **Site Supervision:** Conducted site inspections to track progress and ensure adherence to safety and design standards.
