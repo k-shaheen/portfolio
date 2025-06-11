@@ -11,8 +11,8 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 - **Certified Ethical Hacker (CEH) - 2023**
 - **CompTIA Security+ - 2023**
 
-## Work Experience
-## CYBER SECURITY RELATED WORK EXPERIENCE
+## WORK EXPERIENCE
+### CYBER SECURITY RELATED WORK EXPERIENCE
 ### SOC ANALYST INTERN – REDTEAM CYBERSECURITY LABS LLP- UAE (Jan’2025 – Jun’2025)
 - **Security Monitoring & Log Analysis:** Performed real-time monitoring and analysis of security logs using SIEM platforms such as Splunk, IBM QRadar, ELK Stack, and Wazuh to identify potential threats and anomalies across enterprise environments.
 - **Alert Triage & Incident Handling:** Investigated and triaged security alerts, reduced false positives by 70%, and escalated legitimate threats according to defined Standard Operating Procedure (SOP), improving detection accuracy and reducing response time.
@@ -31,8 +31,7 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 - **Collaboration:** Worked with development teams to help them understand and patch vulnerabilities.
 - **Security Tools & Techniques:** Used tools and techniques like static/dynamic analysis to test and secure web apps, APIs, and networks.
 
-
-## OTHER WORK EXPERIENCE
+### OTHER WORK EXPERIENCE
 ### TELECOM NETWORK PROJECT ENGINEER – SHAHID TECH CONT. CO.LLC - UAE (Nov’2021 – Jan’2024)
 - **Project Management:** Managed end-to-end planning, implementation, and maintenance of GPON projects for Du Telecom, ensuring on-time, cost-effective delivery and compliance with network quality standards.
 - **GPON Network Deployment:** Led planning and execution of GPON infrastructure for Outside Plant (OSP) fiber networks.
