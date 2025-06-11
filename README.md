@@ -1,9 +1,9 @@
-# Cyber Security Professional
+# CYBER SECURITY PROFESSIONAL
 
-## CAREER OBJECTIVE
-Dedicated and results-driven Cybersecurity Analyst with expertise in Security Operations, Penetration Testing, Vulnerability Assessment, and Threat Intelligence. Strong foundation in network security, incident response, and SIEM tools. Conducted real-world vulnerability assessments for organizations, and participated in bug bounty programs. Adept at identifying security gaps, strengthening defenses, and assisting organizations in mitigating threats. Passionate about cyber defense, monitoring, and securing critical infrastructure.
+## PROFESSIONAL SUMMARY
+Dedicated and results-driven cybersecurity professional with hands-on expertise in Security Operations, Penetration Testing, Vulnerability Assessment, and Threat Intelligence. Proficient in web and network security, SIEM and SOAR tools, incident response, and real-world threat detection. Experienced in conducting enterprise-level vulnerability assessments and enhancing security postures through responsible disclosure and bug bounty programs. Continuously enhancing skills by participating in Capture the Flag (CTF) platforms such as HackTheBox, TryHackMe, LetsDefend, and CyberDefenders. Skilled at identifying security gaps, analyzing threats, and enabling proactive cyber defense for critical infrastructure.
 
-## PROFESSIONAL CERTIFICATIONS
+## CERTIFICATIONS
 - **Certified SOC Analyst (CSA) - 2025**
 - **Offensive Pentesting - 2024**
 - **Junior Penetration Tester - 2024**
@@ -12,38 +12,40 @@ Dedicated and results-driven Cybersecurity Analyst with expertise in Security Op
 - **CompTIA Security+ - 2023**
 
 ## Work Experience
+## CYBER SECURITY RELATED WORK EXPERIENCE
+### SOC ANALYST INTERN – REDTEAM CYBERSECURITY LABS LLP- UAE (Jan’2025 – Jun’2025)
+- **Security Monitoring & Log Analysis:** Performed real-time monitoring and analysis of security logs using SIEM platforms such as Splunk, IBM QRadar, ELK Stack, and Wazuh to identify potential threats and anomalies across enterprise environments.
+- **Alert Triage & Incident Handling:** Investigated and triaged security alerts, reduced false positives by 70%, and escalated legitimate threats according to defined Standard Operating Procedure (SOP), improving detection accuracy and reducing response time.
+- **Network Traffic Analysis:** Analyzed packet captures and flow data using Wireshark, Zeek, and tcpdump to investigate suspicious behavior and validate Indicators of Compromise (IOC).
+- **Threat Detection & Mitigation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools such as Snort, Suricata and preventive controls like Fail2Ban, strengthening proactive threat defense and reducing security incidents.
+- **Incident Response Coordination:** Supported the incident response lifecycle by documenting findings, participating in root cause analysis, and recommending mitigation and containment strategies.
+- **Custom SOC Lab Deployment:** Designed and maintained a hybrid SOC lab environment using Windows and Linux (Kali, Ubuntu, Parrot, REMnux, and Security Onion) for threat simulation and tool testing.
+- **SIEM Integration & Tuning:** Configured and optimized correlation rules, dashboards, and data connectors across multiple SIEM and SOAR platforms, ensuring accurate log ingestion and timely alert generation for critical assets.
+- **Threat Simulation & Adversary Emulation:** Conducted red team simulations and MITRE ATT&CK-based scenarios to test SOC detection capabilities and enhance blue team response workflows.
+
 ### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Feb’2024 – Present)
-- **Vulnerability Assessment:** Conducted in-depth vulnerability assessments for companies, identifying security weaknesses and providing actionable mitigation strategies.
+- **Vulnerability Assessment:** Conducted in-depth VAPT for companies, identifying security weaknesses across web applications and networks, and providing actionable mitigation strategies.
 - **Bug Bounty Program:** Participated in bug bounty programs on platforms like HackerOne and Bugcrowd.
 - **Security Flaw Findings:** Discovered vulnerabilities such as Identification and Authentication Failures, 403 bypass, reflected XSS, and API key leaks.
 - **Reporting:** Developed detailed vulnerability reports, including risk assessments and remediation recommendations, ensuring improved cybersecurity measures.
 - **Collaboration:** Worked with development teams to help them understand and patch vulnerabilities.
 - **Security Tools & Techniques:** Used tools and techniques like static/dynamic analysis to test and secure web apps, APIs, and networks.
 
-### SOC ANALYST INTERN – REDTEAM CYBERSECURITY LABS LLP- UAE (Feb’2025 – Apr’2025)
-- **Log Analysis & Monitoring:** Gained hands-on experience analyzing logs and monitoring threats using SIEM tools.
-- **Alert Handling:** Reviewed security alerts, filtered false positives, and escalated real threats.
-- **Network Analysis:** Investigated suspicious traffic with tools like Wireshark and Zeek.
-- **Threat Prevention:** Detected and blocked malicious requests using Snort and Fail2Ban.
-- **Incident Response:** Documented security incidents and supported incident handling processes.
-- **SOC Lab Setup:** Built a custom SOC lab using Windows and Linux distribution like Kali, Ubuntu, Parrot, Security Onion, and REMnux.
-- **SIEM Configuration:** Installed and configured SIEM solutions such as ELK, Splunk, Wazuh, QRadar and more.
-- **Threat Simulation:** Simulated cyberattacks to study detection methods and attacker behavior.
 
+## OTHER WORK EXPERIENCE
 ### TELECOM NETWORK PROJECT ENGINEER – SHAHID TECH CONT. CO.LLC - UAE (Nov’2021 – Jan’2024)
 - **Project Management:** Managed end-to-end planning, implementation, and maintenance of GPON projects for Du Telecom, ensuring on-time, cost-effective delivery and compliance with network quality standards.
 - **GPON Network Deployment:** Led planning and execution of GPON infrastructure for Outside Plant (OSP) fiber networks.
 - **AutoCAD Drafting:** Designed detailed fiber layouts, duct routes, splice diagrams, and termination points using AutoCAD.
 - **Project Documentation:** Managed project schedules, budgets, and reports to ensure smooth communication with clients and stakeholders.
 
-### STRUCTURAL DESIGN ENGINEER (ELECTRICAL) –ACE ENVIRO TECH PVT LTD. - INDIA (Aug’2019 –
-Aug’2021)
+### STRUCTURAL DESIGN ENGINEER (ELECTRICAL) –ACE ENVIRO TECH PVT LTD. - INDIA (Aug’2019 – Aug’2021)
 - **Electrical CAD Design:** Created structural electrical layouts and routing based on client specifications using AutoCAD.
 - **Site Supervision:** Conducted site inspections to track progress and ensure adherence to safety and design standards.
 - **Team Coordination:** Collaborated with architects, structural engineers, and design professionals to seamlessly integrate MEP systems into overall building plans, ensuring functional and efficient design alignment.
 - **Project Tracking:** Used earned value analysis to manage scope, schedule, and cost effectively.
 
-## Projects
+## PROJECTS
 ### **Project 1:** Web Application Vulnerability Assessment
 - **Type:** Authorized Penetration Test
 - **Target:** Production Webpage and API Endpoint of CWallet
@@ -75,11 +77,10 @@ Participated in multiple bug bounty programs, focusing on reconnaissance and app
 - **CGPA:** 6.32
 
 ## TECHNICAL SKILLS
-- **Security Operations & Monitoring:** SIEM (Splunk, ELK, Security Onion), IDS/IPS (Snort, Suricata, Fail2ban), Firewall Analysis, Endpoint Detection & Response (EDR), Log Correlation, Anomaly Detection.
-- **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, Ffuf, Recon-ng, OWASP ZAP.
-- **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, IOC Analysis, Threat Hunting, Open- Source Threat Feeds (AlienVault OTX, VirusTotal), Log Analysis.
+- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, MS Sentinel, ELK Stack, QRadar), IDS/IPS (Snort, Suricata, Fail2Ban), Firewall Analysis, Endpoint Detection & Response (EDR), Log Correlation, Anomaly Detection, Windows Event Logs, Sysmon, OSQuery.
+- **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, Ffuf, Recon-ng, OWASP ZAP, and related tools.
+- **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, IOC Analysis, Threat Hunting, Open- Source Threat Feeds (AlienVault OTX, VirusTotal), Log Analysis.
 - **Scripting & Automation:** Python, Bash, PowerShell.
-- **Tools Knowledge:** ELK (Elasticsearch, Logstash, Kibana), Windows Event Logs, Sysmon, OSQuery, Autopsy, FTK Imager, MISP and more.
 
 ## STRENGTHS AND KEY SKILLS
 - Critical Thinking & Problem-Solving.
