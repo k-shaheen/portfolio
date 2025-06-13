@@ -14,10 +14,10 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 ## WORK EXPERIENCE
 ### CYBER SECURITY RELATED WORK EXPERIENCE
 ### SOC ANALYST INTERN – REDTEAM CYBERSECURITY LABS LLP- UAE (Jan’2025 – Jun’2025)
-- **Security Monitoring & Log Analysis:** Performed real-time monitoring and analysis of security logs using SIEM platforms such as Splunk, IBM QRadar, ELK Stack, and Wazuh to identify potential threats and anomalies across enterprise environments.
+- **Security Monitoring & Log Analysis:** Performed real-time monitoring and analysis of security logs using SIEM platforms such as Splunk, IBM QRadar, and ELK Stack to identify potential threats and anomalies across enterprise environments.
 - **Alert Triage & Incident Handling:** Investigated and triaged security alerts, reduced false positives by 70%, and escalated legitimate threats according to defined Standard Operating Procedure (SOP), improving detection accuracy and reducing response time.
-- **Network Traffic Analysis:** Analyzed packet captures and flow data using Wireshark, Zeek, and tcpdump to investigate suspicious behavior and validate Indicators of Compromise (IOC).
-- **Threat Detection & Mitigation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools such as Snort, Suricata and preventive controls like Fail2Ban, strengthening proactive threat defense and reducing security incidents.
+- **Network Traffic Analysis:** Analyzed packet captures and flow data using Wireshark, and tcpdump to investigate suspicious behavior and validate Indicators of Compromise (IOC).
+- **Threat Detection & Mitigation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools such as Snort and preventive controls like Fail2Ban, strengthening proactive threat defense and reducing security incidents.
 - **Incident Response Coordination:** Supported the incident response lifecycle by documenting findings, participating in root cause analysis, and recommending mitigation and containment strategies.
 - **Custom SOC Lab Deployment:** Designed and maintained a hybrid SOC lab environment using Windows and Linux (Kali, Ubuntu, Parrot, REMnux, and Security Onion) for threat simulation and tool testing.
 - **SIEM Integration & Tuning:** Configured and optimized correlation rules, dashboards, and data connectors across multiple SIEM and SOAR platforms, ensuring accurate log ingestion and timely alert generation for critical assets.
@@ -55,7 +55,7 @@ Conducted an in-depth security assessment of CWallet’s production Webpage and 
 
 ### **Project 2:** Security Operations Lab Setup & Threat Simulation
 - **Type:** Hands-on Lab
-- **Tools Used:** Splunk, ELK, MISP, Wazuh, Security Onion, QRadar, Zeek, Snort, Fail2Ban, Wireshark, WordPress
+- **Tools Used:** Splunk, ELK, MISP, Security Onion, QRadar, Snort, Fail2Ban, Wireshark, WordPress
 - **Description:**
 Built a custom SOC (Security Operations Center) lab environment using both Windows and Linux distributions such as Kali, Ubuntu, Parrot, Security Onion and REMnux. Simulated real-world cyberattacks using tools like Metasploit and custom scripts to test alert detection, log correlation, and incident response capabilities. Integrated SIEM platforms like ELK Stack and Splunk to analyze malicious behavior and fine-tune alert rules. Detected and Blocked the malicious request using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) like Snort and Fail2Ban.
 - **Outcome:** Enhanced threat detection techniques and incident response analysis using real-time logs and packet captures.
@@ -76,7 +76,7 @@ Participated in multiple bug bounty programs, focusing on reconnaissance and app
 - **CGPA:** 6.32
 
 ## TECHNICAL SKILLS
-- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, MS Sentinel, ELK Stack, QRadar), IDS/IPS (Snort, Suricata, Fail2Ban), Firewall Analysis, Endpoint Detection & Response (EDR), Log Correlation, Anomaly Detection, Windows Event Logs, Sysmon, OSQuery.
+- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, ELK Stack, QRadar), IDS/IPS (Snort, Fail2Ban), Firewall Analysis, SentinelOne Endpoint Detection & Response (EDR), Log Correlation, Windows Event Logs, Sysmon, OSQuery.
 - **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, Ffuf, Recon-ng, OWASP ZAP, and related tools.
 - **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, IOC Analysis, Threat Hunting, Open- Source Threat Feeds (AlienVault OTX, VirusTotal), Log Analysis.
 - **Scripting & Automation:** Python, Bash, PowerShell.
