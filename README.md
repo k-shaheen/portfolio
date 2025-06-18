@@ -45,20 +45,27 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 - **Project Tracking:** Used earned value analysis to manage scope, schedule, and cost effectively.
 
 ## PROJECTS
-### **Project 1:** Web Application Vulnerability Assessment
+### **Project 1:** Security Operations Center (SOC) Environment – End-to-End Lab Setup & Threat Simulation
+- **Type:** Advanced SOC Hands-on Lab Simulation
+- **Tools Used:** IBM QRadar, Splunk, ELK Stack, MISP, MITRE ATT&CK, Snort, Suricata, Fail2Ban, Security Onion, REMnux, Sysmon, Packetbeat, Wireshark, WordPress
+- **Description:**
+Built a robust and production-like Security Operations Center (SOC) environment from scratch to simulate enterprise-grade security operations. Integrated multiple SIEM platforms (QRadar, Splunk, ELK Stack) and connected threat intelligence sources such as MISP and MITRE ATT&CK for enriched context in detection and analysis.
+Deployed IDS/IPS systems like Snort and Suricata to capture and analyze network traffic. Enhanced host and network security using Fail2Ban and Security Onion. Set up a vulnerable WordPress site on an Ubuntu server as a target for simulated cyberattacks including enumeration, exploitation, and privilege escalation. Used tools like Metasploit and custom scripts to generate attacker behavior and monitored logs through Sysmon, Packetbeat, and Wireshark.
+Performed end-to-end SOC operations including:
+  - Real-time log monitoring and correlation
+  - Alert triaging and rule tuning
+  - Threat investigation and incident response
+  - Blocking malicious requests using IDS/IPS and firewall controls
+All data was visualized through rich dashboards, enabling deep analysis of attack paths and system vulnerabilities.
+- **Outcome:** Successfully replicated real-world Blue Team and Red Team workflows in a unified lab. Gained hands-on experience in SIEM integration, threat detection, alert management, and SOC operations, preparing for enterprise-level cybersecurity roles.
+
+### **Project 2:** Web Application Vulnerability Assessment
 - **Type:** Authorized Penetration Test
 - **Target:** Production Webpage and API Endpoint of CWallet
 - **Tools Used:** Burp Suite, OWASP ZAP, SQLMap, Nmap, Ffuf, Dirbuster and more.
 - **Description:**
 Conducted an in-depth security assessment of CWallet’s production Webpage and API. Discovered critical vulnerabilities including 403 Bypass, Reflected XSS, and API key leaks. Developed custom PoCs (Proof of Concepts) to demonstrate impact and documented findings in a professional report following CVSS scoring. Collaborated with development team to ensure timely patching.
 - **Outcome:** Strengthened security posture of the target system and helped implement secure coding practices.
-
-### **Project 2:** Security Operations Lab Setup & Threat Simulation
-- **Type:** Hands-on Lab
-- **Tools Used:** Splunk, ELK, MISP, Security Onion, QRadar, Snort, Fail2Ban, Wireshark, WordPress
-- **Description:**
-Built a custom SOC (Security Operations Center) lab environment using both Windows and Linux distributions such as Kali, Ubuntu, Parrot, Security Onion and REMnux. Simulated real-world cyberattacks using tools like Metasploit and custom scripts to test alert detection, log correlation, and incident response capabilities. Integrated SIEM platforms like ELK Stack and Splunk to analyze malicious behavior and fine-tune alert rules. Detected and Blocked the malicious request using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) like Snort and Fail2Ban.
-- **Outcome:** Enhanced threat detection techniques and incident response analysis using real-time logs and packet captures.
 
 ### **Project 3:** Bug Bounty Program
 - **Type:** Freelance Security Research
