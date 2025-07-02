@@ -1,10 +1,10 @@
 # CYBER SECURITY PROFESSIONAL
 
 ## PROFESSIONAL SUMMARY
-Dedicated and results-driven cybersecurity professional with hands-on expertise in Security Operations, Penetration Testing, Vulnerability Assessment, and Threat Intelligence. Proficient in web and network security, SIEM and SOAR tools, incident response, and real-world threat detection. Experienced in conducting enterprise-level vulnerability assessments and enhancing security postures through responsible disclosure and bug bounty programs. Continuously enhancing skills by participating in Capture the Flag (CTF) platforms such as HackTheBox, TryHackMe, LetsDefend, and CyberDefenders. Skilled at identifying security gaps, analyzing threats, and enabling proactive cyber defense for critical infrastructure.
+Dedicated and results-driven cybersecurity professional with hands-on experience in Security Operations, Threat Detection, Vulnerability Assessment, and Incident Response. Skilled in using SIEM and SOAR platforms (Splunk, QRadar, ELK) for real-time monitoring, log analysis, and alert triage. Proven ability to identify and respond to cyber threats, reduce false positives, and strengthen organizational security posture. Continuously enhancing skills by participating in Capture the Flag (CTF) platforms such as HackTheBox, TryHackMe, LetsDefend, and CyberDefenders. Passionate about continuous learning and enabling proactive cyber defense across enterprise environments.
 
 ## CERTIFICATIONS
-- **Certified SOC Analyst (CSA) - 2025**
+- **Certified SOC Analyst (CSA) - 2024**
 - **Offensive Pentesting - 2024**
 - **Junior Penetration Tester - 2024**
 - **Computer Hacking Forensic Investigator (CHFI) - 2023**
@@ -13,17 +13,17 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 
 ## WORK EXPERIENCE
 ### CYBER SECURITY RELATED WORK EXPERIENCE
-### SOC ANALYST INTERN – REDTEAM CYBERSECURITY LABS LLP- UAE (Jan’2025 – Jun’2025)
-- **Security Monitoring & Log Analysis:** Performed real-time monitoring and analysis of security logs using SIEM platforms such as Splunk, IBM QRadar, and ELK Stack to identify potential threats and anomalies across enterprise environments.
-- **Alert Triage & Incident Handling:** Investigated and triaged security alerts, reduced false positives by 70%, and escalated legitimate threats according to defined Standard Operating Procedure (SOP), improving detection accuracy and reducing response time.
-- **Network Traffic Analysis:** Analyzed packet captures and flow data using Wireshark, and tcpdump to investigate suspicious behavior and validate Indicators of Compromise (IOC).
-- **Threat Detection & Mitigation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools such as Snort and preventive controls like Fail2Ban, strengthening proactive threat defense and reducing security incidents.
-- **Incident Response Coordination:** Supported the incident response lifecycle by documenting findings, participating in root cause analysis, and recommending mitigation and containment strategies.
-- **Custom SOC Lab Deployment:** Designed and maintained a hybrid SOC lab environment using Windows and Linux (Kali, Ubuntu, Parrot, REMnux, and Security Onion) for threat simulation and tool testing.
-- **SIEM Integration & Tuning:** Configured and optimized correlation rules, dashboards, and data connectors across multiple SIEM and SOAR platforms, ensuring accurate log ingestion and timely alert generation for critical assets.
-- **Threat Simulation & Adversary Emulation:** Conducted red team simulations and MITRE ATT&CK-based scenarios to test SOC detection capabilities and enhance blue team response workflows.
+### SOC ANALYST LEVEL 1 – REDTEAM CYBERSECURITY LABS LLP- UAE (Jul’2024 – Present)
+- **Real-Time Security Monitoring:** Performed monitoring of security events using SIEM tools like Splunk, QRadar, and ELK Stack to detect threats and policy violations across enterprise environments.
+- **Alert Triage & Incident Response:** Investigated and triaged alerts, reduced false positives by 70%, and escalated incidents as per SOPs to ensure swift and accurate response.
+- **Network Traffic & IOC Analysis:** Conducted deep-dive packet inspection and flow analysis using Wireshark and tcpdump to validate Indicators of Compromise (IOCs) and uncover malicious traffic patterns.
+- **Threat Detection & Mitigation:** Utilized IDS/IPS tools like Snort and preventive mechanisms like Fail2Ban to detect, block, and mitigate malicious activities, thereby reducing security incident occurrences and strengthening perimeter defense.
+- **End-to-End Incident Handling:** Supported full incident response lifecycle including evidence collection, root cause analysis, and post-incident reporting to stakeholders with recommendations for improving detection and response measures.
+- **SOC Lab Design & Management:** Designed, deployed, and maintained a custom hybrid SOC lab environment leveraging Windows and Linux distributions (Kali, Ubuntu, Parrot, REMnux, Security Onion) for simulation, testing, and continuous skill development.
+- **SIEM Integration & Rule Tuning:** Integrated log sources and configured correlation rules, dashboards, and alerts across multiple SIEM/SOAR tools to ensure comprehensive coverage and effective incident detection.
+- **Adversary Emulation:** Ran MITRE ATT&CK-based red team simulations to test SOC detections and improve blue team readiness.
 
-### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Feb’2024 – Present)
+### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Jan’2024 – Jun’2024)
 - **Vulnerability Assessment:** Conducted in-depth VAPT for companies, identifying security weaknesses across web applications and networks, and providing actionable mitigation strategies.
 - **Bug Bounty Program:** Participated in bug bounty programs on platforms like HackerOne and Bugcrowd.
 - **Security Flaw Findings:** Discovered vulnerabilities such as Identification and Authentication Failures, 403 bypass, reflected XSS, and API key leaks.
