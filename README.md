@@ -12,7 +12,7 @@ Dedicated and results-driven cybersecurity professional with hands-on experience
 - **CompTIA Security+ - 2023**
 
 ## WORK EXPERIENCE
-### CYBER SECURITY RELATED WORK EXPERIENCE
+
 ### SOC ANALYST LEVEL 1 – REDTEAM CYBERSECURITY LABS LLP- UAE (Jul’2024 – Present)
 - **Real-Time Security Monitoring:** Performed monitoring of security events using SIEM tools like Splunk, QRadar, and ELK Stack to detect threats and policy violations across enterprise environments.
 - **Alert Triage & Incident Response:** Investigated and triaged alerts, reduced false positives by 70%, and escalated incidents as per SOPs to ensure swift and accurate response.
@@ -31,7 +31,6 @@ Dedicated and results-driven cybersecurity professional with hands-on experience
 - **Collaboration:** Worked with development teams to help them understand and patch vulnerabilities.
 - **Security Tools & Techniques:** Used tools and techniques like static/dynamic analysis to test and secure web apps, APIs, and networks.
 
-### OTHER WORK EXPERIENCE
 ### TELECOM NETWORK PROJECT ENGINEER – SHAHID TECH CONT. CO.LLC - UAE (Nov’2021 – Jan’2024)
 - **Project Management:** Managed end-to-end planning, implementation, and maintenance of GPON projects for Du Telecom, ensuring on-time, cost-effective delivery and compliance with network quality standards.
 - **GPON Network Deployment:** Led planning and execution of GPON infrastructure for Outside Plant (OSP) fiber networks.
