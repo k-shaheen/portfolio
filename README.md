@@ -4,7 +4,7 @@
 Dedicated and results-driven cybersecurity professional with hands-on experience in Security Operations, Threat Detection, Vulnerability Assessment, and Incident Response. Skilled in using SIEM and SOAR platforms (Splunk, QRadar, ELK) for real-time monitoring, log analysis, and alert triage. Proven ability to identify and respond to cyber threats, reduce false positives, and strengthen organizational security posture. Continuously enhancing skills by participating in Capture the Flag (CTF) platforms such as HackTheBox, TryHackMe, LetsDefend, and CyberDefenders. Passionate about continuous learning and enabling proactive cyber defense across enterprise environments.
 
 ## CERTIFICATIONS
-- **Certified SOC Analyst (CSA) - 2024**
+- **Certified SOC Analyst (CSA) - 2025**
 - **Offensive Pentesting - 2024**
 - **Junior Penetration Tester - 2024**
 - **Computer Hacking Forensic Investigator (CHFI) - 2023**
@@ -13,7 +13,7 @@ Dedicated and results-driven cybersecurity professional with hands-on experience
 
 ## WORK EXPERIENCE
 
-### SOC ANALYST LEVEL 1 – REDTEAM CYBERSECURITY LABS LLP- UAE (Jul’2024 – Present)
+### SOC ANALYST LEVEL 1 – REDTEAM CYBERSECURITY LABS LLP- UAE (Jan’2025 – Present)
 - **Real-Time Security Monitoring:** Performed monitoring of security events using SIEM tools like Splunk, QRadar, and ELK Stack to detect threats and policy violations across enterprise environments.
 - **Alert Triage & Incident Response:** Investigated and triaged alerts, reduced false positives by 70%, and escalated incidents as per SOPs to ensure swift and accurate response.
 - **Network Traffic & IOC Analysis:** Conducted deep-dive packet inspection and flow analysis using Wireshark and tcpdump to validate Indicators of Compromise (IOCs) and uncover malicious traffic patterns.
@@ -23,7 +23,7 @@ Dedicated and results-driven cybersecurity professional with hands-on experience
 - **SIEM Integration & Rule Tuning:** Integrated log sources and configured correlation rules, dashboards, and alerts across multiple SIEM/SOAR tools to ensure comprehensive coverage and effective incident detection.
 - **Adversary Emulation:** Ran MITRE ATT&CK-based red team simulations to test SOC detections and improve blue team readiness.
 
-### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Jan’2024 – Jun’2024)
+### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Feb’2024 – Jan’2025)
 - **Vulnerability Assessment:** Conducted in-depth VAPT for companies, identifying security weaknesses across web applications and networks, and providing actionable mitigation strategies.
 - **Bug Bounty Program:** Participated in bug bounty programs on platforms like HackerOne and Bugcrowd.
 - **Security Flaw Findings:** Discovered vulnerabilities such as Identification and Authentication Failures, 403 bypass, reflected XSS, and API key leaks.
