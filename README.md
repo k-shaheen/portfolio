@@ -13,7 +13,7 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 
 ## WORK EXPERIENCE
 
-### SOC ANALYST TIER 1 – CWALLET- UAE (Nov’2023 – Jul'2025)
+### SOC ANALYST TIER 1 – CWALLET SERVICES WLL - UAE (Nov’2023 – Jul'2025)
 - **Security Monitoring & Threat Detection:** Conducted proactive real-time monitoring and in-depth analysis of security events and logs using leading SIEM platforms (Splunk, IBM QRadar, ELK Stack) integrated with SOAR solutions (TheHive, Cortex) to detect, investigate, and respond to threats.
 - **Incident Handling & Coordination:** Responded to and documented security incidents through the ticketing system, liaising with cross-functional teams and SOC vendors to ensure timely resolution and continuous improvement in detection processes.
 - **Alert Tuning & Incident Response:** Configured and optimized SIEM correlation rules, dashboards, and data connectors in line with defined Standard Operating Procedures (SOPs), reducing false positives by 60% and enhancing detection of advanced threats. Integrated threat intelligence feeds to increase visibility into phishing, malware, and network intrusion attempts.
