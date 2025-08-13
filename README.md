@@ -1,7 +1,7 @@
 # CYBER SECURITY PROFESSIONAL
 
 ## PROFESSIONAL SUMMARY
-Dedicated and results-driven cybersecurity professional with hands-on expertise in Security Operations, Network & Endpoint Security, Penetration Testing, and Threat Intelligence. Skilled in managing SIEM, EDR, firewall technologies, and endpoint solutions. Experienced in security incident response, alert triage, patch management, and root cause analysis. Proven ability to enhance infrastructure security posture through threat hunting, detection use cases, and automation. Passionate about continuous learning and applying best practices in a dynamic threat landscape.
+Dedicated and results-driven cybersecurity professional with hands-on expertise in Security Operations, Threat Intelligence, Penetration Testing, and Incident Response. Skilled in managing SIEM, SOAR, EDR, firewall technologies, and endpoint protection solutions. Proven track record in detecting and mitigating threats, reducing false positives, and strengthening security posture through threat hunting, automation, and detection use case development. Passionate about continuous learning and applying best practices in a dynamic and evolving threat landscape.
 
 ## CERTIFICATIONS
 - **Certified SOC Analyst (CSA) - 2024**
@@ -13,17 +13,17 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 
 ## WORK EXPERIENCE
 
-### SOC ANALYST TIER 1 – REDTEAM CYBERSECURITY LABS LLP- UAE (Jul’2024 – Present)
-- **Real-Time Security Monitoring:** Performed monitoring of security events using SIEM tools like Splunk, QRadar, and ELK Stack to detect threats and policy violations across enterprise environments.
-- **Alert Triage & Incident Response:** Investigated and triaged alerts, reduced false positives by 70%, and escalated incidents as per SOPs to ensure swift and accurate response.
-- **Network Traffic & IOC Analysis:** Conducted deep-dive packet inspection and flow analysis using Wireshark and tcpdump to validate Indicators of Compromise (IOCs) and uncover malicious traffic patterns.
-- **Threat Detection & Mitigation:** Utilized IDS/IPS tools like Snort and preventive mechanisms like Fail2Ban to detect, block, and mitigate malicious activities, thereby reducing security incident occurrences and strengthening perimeter defense.
-- **End-to-End Incident Handling:** Supported full incident response lifecycle including evidence collection, root cause analysis, and post-incident reporting to stakeholders with recommendations for improving detection and response measures.
-- **SOC Lab Design & Management:** Designed, deployed, and maintained a custom hybrid SOC lab environment leveraging Windows and Linux distributions (Kali, Ubuntu, Parrot, REMnux, Security Onion) for simulation, testing, and continuous skill development.
-- **SIEM Integration & Rule Tuning:** Integrated log sources and configured correlation rules, dashboards, and alerts across multiple SIEM/SOAR tools to ensure comprehensive coverage and effective incident detection.
-- **Adversary Emulation:** Ran MITRE ATT&CK-based red team simulations to test SOC detections and improve blue team readiness.
+### SOC ANALYST TIER 1 – CWALLET- UAE (Nov’2023 – Jul'2025)
+- **Security Monitoring & Threat Detection:** Conducted proactive real-time monitoring and in-depth analysis of security events and logs using leading SIEM platforms (Splunk, IBM QRadar, ELK Stack) integrated with SOAR solutions (TheHive, Cortex) to detect, investigate, and respond to threats.
+- **Incident Handling & Coordination:** Responded to and documented security incidents through the ticketing system, liaising with cross-functional teams and SOC vendors to ensure timely resolution and continuous improvement in detection processes.
+- **Alert Tuning & Incident Response:** Configured and optimized SIEM correlation rules, dashboards, and data connectors in line with defined Standard Operating Procedures (SOPs), reducing false positives by 60% and enhancing detection of advanced threats. Integrated threat intelligence feeds to increase visibility into phishing, malware, and network intrusion attempts.
+- **Network & Log Analysis:** Conducted deep packet inspection and network flow analysis using Wireshark and tcpdump to validate Indicators of Compromise (IoCs) and support root cause analysis.
+- **Threat Mitigation & Remediation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools such as Snort and preventive controls like Fail2Ban, strengthening proactive threat defense and reducing security incidents.
+- **Threat Simulation & Security Testing:** Executed red team simulations and MITRE ATT&CK-based adversary emulations to test SOC detection and response readiness, strengthening defensive workflows.
+- **Proactive Threat Hunting:** Conducted hypothesis-driven threat hunts using SIEM queries, endpoint telemetry, and threat intelligence to uncover stealthy attacks and previously undetected malicious activity, led to early containment of potential breaches.
 
-### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Oct’2023 – Jun’2024)
+
+### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Jan’2023 – Sep’2023)
 - **Vulnerability Assessment:** Conducted in-depth VAPT for companies, identifying security weaknesses across web applications and networks, and providing actionable mitigation strategies.
 - **Bug Bounty Program:** Participated in bug bounty programs on platforms like HackerOne and Bugcrowd.
 - **Security Flaw Findings:** Discovered vulnerabilities such as Identification and Authentication Failures, 403 bypass, reflected XSS, and API key leaks.
@@ -31,7 +31,7 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 - **Collaboration:** Worked with development teams to help them understand and patch vulnerabilities.
 - **Security Tools & Techniques:** Used tools and techniques like static/dynamic analysis to test and secure web apps, APIs, and networks.
 
-### TELECOM NETWORK PROJECT ENGINEER – SHAHID TECH CONT. CO.LLC - UAE (Nov’2021 – Jan’2024)
+### TELECOM NETWORK PROJECT ENGINEER – SHAHID TECH CONT. CO.LLC - UAE (Nov’2021 – Oct’2023)
 - **Project Management:** Managed end-to-end planning, implementation, and maintenance of GPON projects for Du Telecom, ensuring on-time, cost-effective delivery and compliance with network quality standards.
 - **GPON Network Deployment:** Led planning and execution of GPON infrastructure for Outside Plant (OSP) fiber networks.
 - **AutoCAD Drafting:** Designed detailed fiber layouts, duct routes, splice diagrams, and termination points using AutoCAD.
@@ -82,7 +82,7 @@ Participated in multiple bug bounty programs, focusing on reconnaissance and app
 - **CGPA:** 6.32
 
 ## TECHNICAL SKILLS
-- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, ELK Stack, QRadar), IDS/IPS (Snort, Fail2Ban), Firewall Analysis, SentinelOne Endpoint Detection & Response (EDR), Log Correlation, Windows Event Logs, Sysmon, OSQuery.
+- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, ELK Stack, QRadar, TheHive, Cortex), IDS/IPS (Snort, Fail2Ban), Firewall Analysis, Wazuh Endpoint Detection & Response (EDR), Windows Event Logs, Sysmon, OSQuery.
 - **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, Ffuf, Recon-ng, OWASP ZAP, and related tools.
 - **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, IOC Analysis, Threat Hunting, Open- Source Threat Feeds (AlienVault OTX, VirusTotal), Log Analysis.
 - **Scripting & Automation:** Python, Bash, PowerShell.
