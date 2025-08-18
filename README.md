@@ -13,7 +13,7 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 
 ## WORK EXPERIENCE
 
-### SOC ANALYST TIER 1 – CWALLET SERVICES WLL - UAE (Nov’2023 – Jul'2025)
+### SOC ANALYST TIER 1 – CWALLET SERVICES WLL - UAE (Nov’2023 – Aug'2025)
 - **Security Monitoring & Threat Detection:** Conducted proactive real-time monitoring and in-depth analysis of security events and logs using leading SIEM platforms (Splunk, IBM QRadar, ELK Stack) integrated with SOAR solutions (TheHive, Cortex) to detect, investigate, and respond to threats.
 - **Incident Handling & Coordination:** Responded to and documented security incidents through the ticketing system, liaising with cross-functional teams and SOC vendors to ensure timely resolution and continuous improvement in detection processes.
 - **Alert Tuning & Incident Response:** Configured and optimized SIEM correlation rules, dashboards, and data connectors in line with defined Standard Operating Procedures (SOPs), reducing false positives by 60% and enhancing detection of advanced threats. Integrated threat intelligence feeds to increase visibility into phishing, malware, and network intrusion attempts.
@@ -79,13 +79,15 @@ Participated in multiple bug bounty programs, focusing on reconnaissance and app
 - **Major:** Electrical and Electronics Engineering
 - **University:** Anna University
 - **Year:** 2015-2019
-- **CGPA:** 6.32
+- **CGPA:** 6.32/10
 
 ## TECHNICAL SKILLS
-- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, ELK Stack, QRadar, TheHive, Cortex), IDS/IPS (Snort, Fail2Ban), Firewall Analysis, Wazuh Endpoint Detection & Response (EDR), Windows Event Logs, Sysmon, OSQuery.
-- **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, Ffuf, Recon-ng, OWASP ZAP, and related tools.
-- **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, IOC Analysis, Threat Hunting, Open- Source Threat Feeds (AlienVault OTX, VirusTotal), Log Analysis.
+- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, ELK Stack, QRadar, TheHive, Cortex), IDS/IPS (Snort, Fail2Ban), Wazuh Endpoint Detection & Response (EDR), Windows Event Logs, Sysmon, OSQuery.
+- **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Tenable Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, FFUF, Recon-ng, OWASP ZAP, and related tools.
+- **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, Open-Source Intelligence (WHOIS, AlienVault OTX, VirusTotal, AbuseIPDB), and firewall log analysis (Palo Alto, Fortinet).
+- **Digital Forensics:** Autopsy, Redline, KAPE, Volatility, FTK Imager, and other memory and disk forensics tools.
 - **Scripting & Automation:** Python, Bash, PowerShell.
+- **Documentation & Reporting Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).
 
 ## STRENGTHS AND KEY SKILLS
 - Critical Thinking & Problem-Solving.
