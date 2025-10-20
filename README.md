@@ -14,14 +14,13 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 ## WORK EXPERIENCE
 
 ### SOC ANALYST TIER 1 – CWALLET SERVICES WLL - UAE (Nov’2023 – Aug'2025)
-- **Security Monitoring & Threat Detection:** Conducted proactive real-time monitoring and in-depth analysis of security events and logs using leading SIEM platforms (Splunk, IBM QRadar, ELK Stack) integrated with SOAR solutions (TheHive, Cortex) to detect, investigate, and respond to threats.
+- **Security Monitoring & Threat Detection:** Conducted proactive real-time monitoring and in-depth analysis of security events and logs using leading SIEM platforms (Microsoft Sentinel, Splunk, IBM QRadar) integrated with SOAR solutions to detect, investigate, and respond to threats.
+- **Cloud Security & Endpoint Protection:** Managed and monitored security in Microsoft Azure cloud environments, utilizing tools like Microsoft Defender for Endpoint, Azure Security Center, and Microsoft 365 security suite to ensure secure configurations, endpoint protection, and rapid threat response.
 - **Incident Handling & Coordination:** Responded to and documented security incidents through the ticketing system, liaising with cross-functional teams and SOC vendors to ensure timely resolution and continuous improvement in detection processes.
-- **Alert Tuning & Incident Response:** Configured and optimized SIEM correlation rules, dashboards, and data connectors in line with defined Standard Operating Procedures (SOPs), reducing false positives by 60% and enhancing detection of advanced threats. Integrated threat intelligence feeds to increase visibility into phishing, malware, and network intrusion attempts.
-- **Network & Log Analysis:** Conducted deep packet inspection and network flow analysis using Wireshark and tcpdump to validate Indicators of Compromise (IoCs) and support root cause analysis.
-- **Threat Mitigation & Remediation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools such as Snort and preventive controls like Fail2Ban, strengthening proactive threat defense and reducing security incidents.
-- **Threat Simulation & Security Testing:** Executed red team simulations and MITRE ATT&CK-based adversary emulations to test SOC detection and response readiness, strengthening defensive workflows.
+- **Alert Tuning & Incident Response:** Configured and optimized SIEM correlation rules, dashboards, and data connectors in line with defined SOPs, reducing false positives by 60% and enhancing detection of advanced threats. Integrated threat intelligence feeds to increase visibility into phishing, malware, and network intrusion attempts.
+- **Threat Mitigation & Remediation:** Detected and blocked malicious activity using Intrusion Detection System (IDS) and Intrusion Prevention System (IPS) tools, strengthening proactive threat defense and reducing security incidents.
+- **KPI & Performance Metrics Management:** Developed and presented KPIs, KRIs, and other performance metrics to monitor organizational effectiveness and support data-driven decision-making.
 - **Proactive Threat Hunting:** Conducted hypothesis-driven threat hunts using SIEM queries, endpoint telemetry, and threat intelligence to uncover stealthy attacks and previously undetected malicious activity, led to early containment of potential breaches.
-
 
 ### PENETRATION TESTER & SECURITY RESEARCHER – FREELANCE - UAE (Jan’2023 – Sep’2023)
 - **Vulnerability Assessment:** Conducted in-depth VAPT for companies, identifying security weaknesses across web applications and networks, and providing actionable mitigation strategies.
@@ -42,6 +41,14 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 - **Site Supervision:** Conducted site inspections to track progress and ensure adherence to safety and design standards.
 - **Team Coordination:** Collaborated with architects, structural engineers, and design professionals to seamlessly integrate MEP systems into overall building plans, ensuring functional and efficient design alignment.
 - **Project Tracking:** Used earned value analysis to manage scope, schedule, and cost effectively.
+
+## TECHNICAL SKILLS
+- **Security Operations & Monitoring:** SIEM and SOAR tools (Microsoft Sentinel, Splunk Enterprise, Splunk SOAR Phantom, IBM QRadar), IDS/IPS (Snort, Fail2Ban), EDR (Microsoft Defender, Wazuh), Windows Event Logs, OSQuery.
+- **Cloud & Endpoint Security:** Managed Microsoft Azure and Microsoft 365 services (Admin Center, Exchange, SharePoint, Power Platform, Entra, and Purview) for secure cloud operations and endpoint protection.
+- **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Tenable Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, FFUF, Recon-ng, OWASP ZAP, and related tools.
+- **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, Open-Source Intelligence (WHOIS, AlienVault OTX, VirusTotal, AbuseIPDB), and firewall log analysis (Palo Alto, Fortinet).
+- **Scripting & Automation:** Python, Bash, PowerShell.
+- **Documentation & Reporting Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Teams, Outlook) and ticketing platforms (Azure DevOps).
 
 ## PROJECTS
 ### **Project 1:** Security Operations Center (SOC) Environment – End-to-End Lab Setup & Threat Simulation
@@ -80,14 +87,6 @@ Participated in multiple bug bounty programs, focusing on reconnaissance and app
 - **University:** Anna University
 - **Year:** 2015-2019
 - **CGPA:** 6.32/10
-
-## TECHNICAL SKILLS
-- **Security Operations & Monitoring:** SIEM and SOAR tools (Splunk, ELK Stack, QRadar, TheHive, Cortex), IDS/IPS (Snort, Fail2Ban), Wazuh Endpoint Detection & Response (EDR), Windows Event Logs, Sysmon, OSQuery.
-- **Penetration Testing & Vulnerability Assessment:** Burp Suite, Metasploit, Tenable Nessus, Nmap, SQLMap, Nikto, OpenVAS, Dirbuster, FFUF, Recon-ng, OWASP ZAP, and related tools.
-- **Threat Intelligence & Incident Response:** MITRE ATT&CK Framework, MISP, Open-Source Intelligence (WHOIS, AlienVault OTX, VirusTotal, AbuseIPDB), and firewall log analysis (Palo Alto, Fortinet).
-- **Digital Forensics:** Autopsy, Redline, KAPE, Volatility, FTK Imager, and other memory and disk forensics tools.
-- **Scripting & Automation:** Python, Bash, PowerShell.
-- **Documentation & Reporting Tools:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).
 
 ## STRENGTHS AND KEY SKILLS
 - Critical Thinking & Problem-Solving.
