@@ -1,15 +1,7 @@
 # CYBER SECURITY PROFESSIONAL
 
 ## PROFESSIONAL SUMMARY
-Dedicated and results-driven cybersecurity professional with hands-on expertise in Security Operations, Threat Intelligence, Penetration Testing, and Incident Response. Skilled in managing SIEM, SOAR, EDR, firewall technologies, and endpoint protection solutions. Proven track record in detecting and mitigating threats, reducing false positives, and strengthening security posture through threat hunting, automation, and detection use case development. Passionate about continuous learning and applying best practices in a dynamic and evolving threat landscape.
-
-## CERTIFICATIONS
-- **Certified SOC Analyst (CSA) - 2024**
-- **Offensive Pentesting - 2024**
-- **Junior Penetration Tester - 2024**
-- **Computer Hacking Forensic Investigator (CHFI) - 2023**
-- **Certified Ethical Hacker (CEH) - 2023**
-- **CompTIA Security+ - 2023**
+Dedicated cybersecurity professional with 3 years of hands-on expertise in Security Operations, Threat Intelligence, Penetration Testing, and Incident Response. Skilled in managing SIEM, SOAR, EDR, firewall technologies, and endpoint protection solutions. Proven track record in detecting and mitigating threats, reducing false positives, and strengthening security posture through threat hunting, automation, and detection use case development. Passionate about continuous learning and applying best practices in a dynamic and evolving threat landscape. Available to join immediately.
 
 ## WORK EXPERIENCE
 
@@ -31,16 +23,21 @@ Dedicated and results-driven cybersecurity professional with hands-on expertise 
 - **Security Tools & Techniques:** Used tools and techniques like static/dynamic analysis to test and secure web apps, APIs, and networks.
 
 ### TELECOM NETWORK PROJECT ENGINEER – SHAHID TECH CONT. CO.LLC - UAE (Nov’2021 – Oct’2023)
-- **Project Management:** Managed end-to-end planning, implementation, and maintenance of GPON projects for Du Telecom, ensuring on-time, cost-effective delivery and compliance with network quality standards.
-- **GPON Network Deployment:** Led planning and execution of GPON infrastructure for Outside Plant (OSP) fiber networks.
-- **AutoCAD Drafting:** Designed detailed fiber layouts, duct routes, splice diagrams, and termination points using AutoCAD.
-- **Project Documentation:** Managed project schedules, budgets, and reports to ensure smooth communication with clients and stakeholders.
+- **4G/5G Network Implementation:** Led the planning, design, and implementation of GPON and 4G/5G telecom network projects for major ISPs, ensuring network reliability, performance, and security compliance.
+- **Exposure to ISP Operations:** Gained practical experience working with ISP in 4G/5G network environments, understanding their core network structure, data transmission security, and monitoring processes.
+
 
 ### STRUCTURAL DESIGN ENGINEER (ELECTRICAL) –ACE ENVIRO TECH PVT LTD. - INDIA (Aug’2019 – Aug’2021)
 - **Electrical CAD Design:** Created structural electrical layouts and routing based on client specifications using AutoCAD.
 - **Site Supervision:** Conducted site inspections to track progress and ensure adherence to safety and design standards.
 - **Team Coordination:** Collaborated with architects, structural engineers, and design professionals to seamlessly integrate MEP systems into overall building plans, ensuring functional and efficient design alignment.
 - **Project Tracking:** Used earned value analysis to manage scope, schedule, and cost effectively.
+
+## CERTIFICATIONS
+- **Certified SOC Analyst (CSA) - 2024**
+- **Computer Hacking Forensic Investigator (CHFI) - 2023**
+- **Certified Ethical Hacker (CEH) - 2023**
+- **CompTIA Security+ - 2023**
 
 ## TECHNICAL SKILLS
 - **Security Operations & Monitoring:** SIEM and SOAR tools (Microsoft Sentinel, Splunk Enterprise, Splunk SOAR Phantom, IBM QRadar), IDS/IPS (Snort, Fail2Ban), EDR (Microsoft Defender, Wazuh), Windows Event Logs, OSQuery.
